@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="DunyaGezgini/en.lproj/DunyaGezgini-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="tr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>DunyaGezgini</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="tr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+    </header>
+    <body>
+      <trans-unit id="CONVERSION_DEGREES_CELCIUS" xml:space="preserve">
+        <source>CONVERSION_DEGREES_CELCIUS</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CONVERSION_FAHRENHEIT" xml:space="preserve">
+        <source>CONVERSION_FAHRENHEIT</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CONVERSION_IS_ACTUALLY" xml:space="preserve">
+        <source>CONVERSION_IS_ACTUALLY</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="COVERSION_TEXT_FIELD_PLACEHOLDER" xml:space="preserve">
+        <source>COVERSION_TEXT_FIELD_PLACEHOLDER</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MAP_CITY_ISTANBUL" xml:space="preserve">
+        <source>MAP_CITY_ISTANBUL</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MAP_CITY_LONDON" xml:space="preserve">
+        <source>MAP_CITY_LONDON</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Picker" xml:space="preserve">
+        <source>Picker</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TAB_CONVERSION" xml:space="preserve">
+        <source>Conversion</source>
+        <note>Localizable.strings
+  DunyaGezgini
+
+  Created by Nahide Sena Sabırlı on 29.07.2023.</note>
+      </trans-unit>
+      <trans-unit id="TAB_MAP" xml:space="preserve">
+        <source>TAB_MAP</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
